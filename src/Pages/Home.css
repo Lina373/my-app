@@ -1,0 +1,15 @@
+.Home {
+    text-align: center;
+}
+
+.Home-backgrounds {
+    display: flex;
+    background-color: white;
+    width: 100%;
+}
+
+.Home-text {
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 600px;
+}
